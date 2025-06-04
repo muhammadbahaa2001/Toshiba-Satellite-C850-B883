@@ -6,30 +6,41 @@ This EFI was made and tested on a Toshiba Satellite C850-B883, but it should wor
 | **Component** | **Model**                             |
 | ------------- | ------------------------------------- |
 | CPU           | Intel Core i3-3120M                    |
-| Motherboard   | DELL OGGKVJ                           |
+| Motherboard   | H000050950                          |
 | RAM           | 4GB                                   |
 | GPU           | Intel HD Graphics 4000                |
 | Audio         | -     |
 | Ethernet      | RTL8111                               |
-| Wireless      | Intel® Wi-Fi 6 AX200                  |
-| Storage       | Samsung 860 PRO SATA 2.5" SSD 1TB     |
+| Wireless      | -                  |
+| Storage       | HS-SSD-E100 256G     |
+
+# Tested on macOS versions:
+| Version                                                                                  | Windows 
+|------------------------------------------------------------------------------------------|---------|
+| macOS Catalina 10.15                                                 | ✅       |
+| macOS Big Sur 11                                         | ✅       |
+| macOS Monterey 12                                         | ✅       | 
+| macOS Ventura 13                                     | ✅       |
+| macOS Sonoma 14                     | ✅       |
+| macOS Sequoia 15          | ✅       |
+| macOS Tahoe 26          | -
 
 # What is working:
 - [x] Power Management
 - [x] Intel HD Graphics 4000
 - [x] Sound **(Internal Speaker and Headphone working)**
 - [x] Mic **(Internal and External both working)**
-- [ ] Wi-Fi
-- [ ] Bluetooth
 - [x] Ethernet
 - [x] Adjust brightness 
 - [x] USB 2.0 and 3.0
 - [x] Trackpad **(All gestures supported)**
-- [ ] Sleep  **(working while power adapter is not connected and using battery)**
 - [x] Tempareture Monitor 
 - [x] Fn feature **(Brightness and volume button works)**
 
 # What is not working:
+- [ ] Sleep
+- [ ] Wi-Fi
+- [ ] Bluetooth
 - [ ] iMassage **(Not working on my device. It might work on your device)**
 - [ ] Facetime **(Not working on my device. It might work on your device)**
 
