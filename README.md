@@ -14,7 +14,7 @@ This EFI was made and tested on a Toshiba Satellite C850-B883, but it should wor
 | Wireless      | -                  |
 | Storage       | HS-SSD-E100 256G     |
 
-# Tested on macOS versions:
+# Tested macOS versions:
 | Version                                                                                  | Result 
 |------------------------------------------------------------------------------------------|---------|
 | macOS Catalina 10.15                                                                     | ✅     |
