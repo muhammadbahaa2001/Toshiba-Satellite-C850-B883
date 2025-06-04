@@ -1,19 +1,14 @@
 # Toshiba-Satellite-C850-B883
 This EFI was made and tested on a Toshiba Satellite C850-B883, but it should work on any Ivy Bridge laptop. You might need to make some modifications to make it work for your laptop.
 
-# Notes
-After more than 20 attempts, I finally figured out how to create a custom EFI for it. The idea was to copy some keys and values from a pre-made Clover config and then build the rest of the config based on Broadwell, as explained in the Dortania guide.
-
-This EFI includes some specific modifications to on Dell laptops only. If you want to use it with non-Dell devices, you'll need to disable certain values in the config.plist. If you're unsure which values to disable, this website can help you: https://sc.ocutils.me/
-
 ## System Information
 
 | **Component** | **Model**                             |
 | ------------- | ------------------------------------- |
-| CPU           | Intel Core i3-5005u                    |
+| CPU           | Intel Core i3-3120M                    |
 | Motherboard   | DELL OGGKVJ                           |
 | RAM           | 4GB                                   |
-| GPU           | Intel HD Graphics 5500                |
+| GPU           | Intel HD Graphics 4000                |
 | Audio         | -     |
 | Ethernet      | RTL8111                               |
 | Wireless      | Intel® Wi-Fi 6 AX200                  |
@@ -24,13 +19,13 @@ This EFI includes some specific modifications to on Dell laptops only. If you wa
 - [x] Intel HD Graphics 4000
 - [x] Sound **(Internal Speaker and Headphone working)**
 - [x] Mic **(Internal and External both working)**
-- [] Wifi
-- [] Bluetooth
+- [ ] Wi-Fi
+- [ ] Bluetooth
 - [x] Ethernet
 - [x] Adjust brightness 
 - [x] USB 2.0 and 3.0
 - [x] Trackpad **(All gestures supported)**
-- [] Sleep  **(working while power adapter is not connected and using battery)**
+- [ ] Sleep  **(working while power adapter is not connected and using battery)**
 - [x] Tempareture Monitor 
 - [x] Fn feature **(Brightness and volume button works)**
 
