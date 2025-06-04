@@ -15,15 +15,15 @@ This EFI was made and tested on a Toshiba Satellite C850-B883, but it should wor
 | Storage       | HS-SSD-E100 256G     |
 
 # Tested on macOS versions:
-| Version                                                                                  | Windows 
+| Version                                                                                  | Result 
 |------------------------------------------------------------------------------------------|---------|
-| macOS Catalina 10.15                                                 | ✅       |
-| macOS Big Sur 11                                         | ✅       |
-| macOS Monterey 12                                         | ✅       | 
-| macOS Ventura 13                                     | ✅       |
-| macOS Sonoma 14                     | ✅       |
-| macOS Sequoia 15          | ✅       |
-| macOS Tahoe 26          | -
+| macOS Catalina 10.15                                                                     | ✅     |
+| macOS Big Sur 11                                                                         | ✅     |
+| macOS Monterey 12                                                                        | ✅     | 
+| macOS Ventura 13                                                                         | ✅     |
+| macOS Sonoma 14                                                                          | ✅     |
+| macOS Sequoia 15                                                                         | ✅     |
+| macOS Tahoe 26                                                                           | -
 
 # What is working:
 - [x] Power Management
