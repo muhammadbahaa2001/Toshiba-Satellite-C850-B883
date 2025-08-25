@@ -25,9 +25,9 @@ This EFI was made and tested on a Toshiba Satellite C850-B883, but it should wor
 | macOS Sequoia 15                                                                         | ✅     |
 | macOS Tahoe 26                                                                           | ⏳
 
-Working ✅
-Not tested yet ⏳
-Not working ❌
+-Working ✅
+-Not tested yet ⏳
+-Not working ❌
 
 # What is working:
 - [x] Power Management
