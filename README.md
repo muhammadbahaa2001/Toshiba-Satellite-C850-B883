@@ -61,5 +61,4 @@ Not working ❌
 Re-uploading is only permitted if you make significant changes to it.
 
 # Support Me
-
-<a href="https://www.buymeacoffee.com/muhammadbahaa2001"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhammadbahaa2001&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="muhammadbahaa2001" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
