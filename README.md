@@ -62,4 +62,4 @@ Re-uploading is only permitted if you make significant changes to it.
 
 # Support Me
 </div>
-<a href='https://ko-fi.com/H2H1Q9W7J' target='_blank'><img height='48' style='border:0px;height:48px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=8' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/muhammadbahaa2001"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhammadbahaa2001&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
